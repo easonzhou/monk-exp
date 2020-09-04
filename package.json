@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gridfs": "^1.0.0",
-    "mongodb": "^2.2.28",
+    "mongodb": "^3.6.1",
     "mongojs": "^2.4.0",
     "monk": "^6.0.0"
   }
